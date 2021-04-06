@@ -1,10 +1,5 @@
 package br.com.train1.train1.model;
 
-import br.com.train1.train1.config.LocalDateDeserializer;
-import br.com.train1.train1.config.LocalDateSerializer;
-import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-
 import javax.validation.constraints.Size;
 import java.time.LocalDate;
 import java.time.LocalTime;
@@ -19,8 +14,6 @@ public class ITrainModel {
     @Size(max = 3)
     private String destinalStation;
 
-    @JsonDeserialize(using = LocalDateDeserializer.class)
-    @JsonSerialize(using = LocalDateSerializer.class)
     private LocalDate date;
 
     private LocalTime departureTime;
@@ -29,11 +22,11 @@ public class ITrainModel {
 
     private Double price;
 
-    public ITrainModel(@Size(max = 6) String tripNumber, @Size(max = 3) String originStation, @Size(max = 3) String destinalStation, LocalDate date, String departureTime, String arrivalTime, Double price) {
+    public ITrainModel(@Size(max = 6) String tripNumber, @Size(max = 3) String originStation, @Size(max = 3) String destinalStation, String date, String departureTime, String arrivalTime, Double price) {
         this.tripNumber = tripNumber;
         this.originStation = originStation;
         this.destinalStation = destinalStation;
-        this.date = date;
+        this.date = LocalDate.parse(date);
         this.departureTime = LocalTime.parse(departureTime);
         this.arrivalTime = LocalTime.parse(arrivalTime);
         this.price = price;
@@ -67,8 +60,8 @@ public class ITrainModel {
         return date;
     }
 
-    public void setDate(LocalDate date) {
-        this.date = date;
+    public void setDate(String date) {
+        this.date = LocalDate.parse(date);
     }
 
     public LocalTime getDepartureTime() {

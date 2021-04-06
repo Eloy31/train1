@@ -1,9 +1,5 @@
 package br.com.train1.train1.model;
 
-import br.com.train1.train1.config.*;
-import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-
 import javax.validation.constraints.Size;
 import java.time.LocalDate;
 import java.time.LocalTime;
@@ -18,8 +14,6 @@ public class UberOnRailsModel {
     @Size(max = 3)
     private String destiny;
 
-    @JsonDeserialize(using = LocalDateDeserializer.class)
-    @JsonSerialize(using = LocalDateSerializer.class)
     private LocalDate departureDate;
 
     private LocalTime departure;
@@ -30,11 +24,11 @@ public class UberOnRailsModel {
 
     public UberOnRailsModel() {}
 
-    public UberOnRailsModel(@Size(max = 8) String trip, @Size(max = 3) String origin, @Size(max = 3) String destiny, LocalDate departureDate, String departure, String arrival, Double value) {
+    public UberOnRailsModel(@Size(max = 8) String trip, @Size(max = 3) String origin, @Size(max = 3) String destiny, String departureDate, String departure, String arrival, Double value) {
         this.trip = trip;
         this.origin = origin;
         this.destiny = destiny;
-        this.departureDate = departureDate;
+        this.departureDate = LocalDate.parse(departureDate);
         this.departure = LocalTime.parse(departure);
         this.arrival = LocalTime.parse(arrival);
         this.value = value;
@@ -68,8 +62,8 @@ public class UberOnRailsModel {
         return departureDate;
     }
 
-    public void setDepartureDate(LocalDate departureDate) {
-        this.departureDate = departureDate;
+    public void setDepartureDate(String departureDate) {
+        this.departureDate = LocalDate.parse(departureDate);
     }
 
     public LocalTime getDeparture() {
