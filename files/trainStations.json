@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Estação Juscelino Kubitschek",
+    "station": "BSB",
+    "city": "Brasília"
+  },
+  {
+    "name": "Estação Eurico de Aguiar Salles",
+    "station": "VIX",
+    "city": "Vitória"
+  },
+  {
+    "name": "Estação Zumbi dos Palmares",
+    "station": "MCZ",
+    "city": "Maceió"
+  },
+  {
+    "name": "Estação de Belém de Cans",
+    "station": "BEL",
+    "city": "Belém"
+  },
+  {
+    "name": "Estação Hercílio Luz",
+    "station": "FLN",
+    "city": "Florianópolis"
+  },
+  {
+    "name": "Estação de Congonhas Paulo",
+    "station": "CGH",
+    "city": "São Paulo"
+  },
+  {
+    "name": "Estação de Aracaju",
+    "station": "AJU",
+    "city": "Aracaju"
+  },
+  {
+    "name": "Estação de Viracopos",
+    "station": "VCP",
+    "city": "Campinas"
+  },
+  {
+    "name": "Estação de Palmas",
+    "station": "PMW",
+    "city": "Palmas"
+  },
+  {
+    "name": "Estação da Pampulha",
+    "station": "PLU",
+    "city": "Belo Horizonte"
+  }
+]

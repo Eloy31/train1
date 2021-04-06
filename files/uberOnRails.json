@@ -1,0 +1,2405 @@
+[
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-10",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "U264B986",
+    "origin": "BSB",
+    "destiny": "AJU",
+    "departureDate": "2021-02-10",
+    "departure": "08:00",
+    "arrival": "15:40",
+    "value": 745.58
+  },
+  {
+    "trip": "N207B980",
+    "origin": "BSB",
+    "destiny": "FLN",
+    "departureDate": "2021-02-10",
+    "departure": "09:00",
+    "arrival": "19:20",
+    "value": 1347.21
+  },
+  {
+    "trip": "X282B992",
+    "origin": "BSB",
+    "destiny": "VIX",
+    "departureDate": "2021-02-10",
+    "departure": "07:20",
+    "arrival": "20:20",
+    "value": 1009.67
+  },
+  {
+    "trip": "H219X969",
+    "origin": "VIX",
+    "destiny": "CGH",
+    "departureDate": "2021-02-10",
+    "departure": "12:00",
+    "arrival": "13:00",
+    "value": 106.25
+  },
+  {
+    "trip": "Z222X942",
+    "origin": "VIX",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-10",
+    "departure": "06:20",
+    "arrival": "16:40",
+    "value": 1002.76
+  },
+  {
+    "trip": "B232X995",
+    "origin": "VIX",
+    "destiny": "BSB",
+    "departureDate": "2021-02-10",
+    "departure": "09:20",
+    "arrival": "16:00",
+    "value": 425.56
+  },
+  {
+    "trip": "L299X980",
+    "origin": "VIX",
+    "destiny": "BEL",
+    "departureDate": "2021-02-10",
+    "departure": "06:00",
+    "arrival": "22:40",
+    "value": 1067.36
+  },
+  {
+    "trip": "W200Z988",
+    "origin": "MCZ",
+    "destiny": "PMW",
+    "departureDate": "2021-02-10",
+    "departure": "11:00",
+    "arrival": "13:20",
+    "value": 222.74
+  },
+  {
+    "trip": "U270Z936",
+    "origin": "MCZ",
+    "destiny": "PLU",
+    "departureDate": "2021-02-10",
+    "departure": "07:40",
+    "arrival": "12:40",
+    "value": 384.38
+  },
+  {
+    "trip": "L259Z904",
+    "origin": "MCZ",
+    "destiny": "BEL",
+    "departureDate": "2021-02-10",
+    "departure": "08:40",
+    "arrival": "22:00",
+    "value": 1457.22
+  },
+  {
+    "trip": "N201Z960",
+    "origin": "MCZ",
+    "destiny": "FLN",
+    "departureDate": "2021-02-10",
+    "departure": "11:20",
+    "arrival": "23:00",
+    "value": 860.42
+  },
+  {
+    "trip": "X248L909",
+    "origin": "BEL",
+    "destiny": "VIX",
+    "departureDate": "2021-02-10",
+    "departure": "10:40",
+    "arrival": "17:20",
+    "value": 424.17
+  },
+  {
+    "trip": "U245L931",
+    "origin": "BEL",
+    "destiny": "PLU",
+    "departureDate": "2021-02-10",
+    "departure": "10:00",
+    "arrival": "18:00",
+    "value": 1097
+  },
+  {
+    "trip": "B211L949",
+    "origin": "BEL",
+    "destiny": "BSB",
+    "departureDate": "2021-02-10",
+    "departure": "09:40",
+    "arrival": "21:40",
+    "value": 1141.5
+  },
+  {
+    "trip": "W299L976",
+    "origin": "BEL",
+    "destiny": "PMW",
+    "departureDate": "2021-02-10",
+    "departure": "07:00",
+    "arrival": "13:40",
+    "value": 851.39
+  },
+  {
+    "trip": "P212N917",
+    "origin": "FLN",
+    "destiny": "VCP",
+    "departureDate": "2021-02-10",
+    "departure": "10:20",
+    "arrival": "17:40",
+    "value": 572.92
+  },
+  {
+    "trip": "Z269N977",
+    "origin": "FLN",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-10",
+    "departure": "11:40",
+    "arrival": "17:00",
+    "value": 532.89
+  },
+  {
+    "trip": "U261N908",
+    "origin": "FLN",
+    "destiny": "AJU",
+    "departureDate": "2021-02-10",
+    "departure": "08:20",
+    "arrival": "19:00",
+    "value": 1144.89
+  },
+  {
+    "trip": "H295N957",
+    "origin": "FLN",
+    "destiny": "CGH",
+    "departureDate": "2021-02-10",
+    "departure": "06:40",
+    "arrival": "15:00",
+    "value": 1130.9
+  },
+  {
+    "trip": "W204H993",
+    "origin": "CGH",
+    "destiny": "PMW",
+    "departureDate": "2021-02-10",
+    "departure": "08:00",
+    "arrival": "20:40",
+    "value": 1469.33
+  },
+  {
+    "trip": "U207H952",
+    "origin": "CGH",
+    "destiny": "AJU",
+    "departureDate": "2021-02-10",
+    "departure": "09:00",
+    "arrival": "18:40",
+    "value": 645.25
+  },
+  {
+    "trip": "Z293H923",
+    "origin": "CGH",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-10",
+    "departure": "07:20",
+    "arrival": "14:00",
+    "value": 523.06
+  },
+  {
+    "trip": "X242H996",
+    "origin": "CGH",
+    "destiny": "VIX",
+    "departureDate": "2021-02-10",
+    "departure": "12:00",
+    "arrival": "20:00",
+    "value": 1039.33
+  },
+  {
+    "trip": "L248U962",
+    "origin": "AJU",
+    "destiny": "BEL",
+    "departureDate": "2021-02-10",
+    "departure": "06:20",
+    "arrival": "18:20",
+    "value": 1107.5
+  },
+  {
+    "trip": "H294U916",
+    "origin": "AJU",
+    "destiny": "CGH",
+    "departureDate": "2021-02-10",
+    "departure": "09:20",
+    "arrival": "15:20",
+    "value": 599.75
+  },
+  {
+    "trip": "B232U928",
+    "origin": "AJU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-10",
+    "departure": "06:00",
+    "arrival": "22:20",
+    "value": 1186.21
+  },
+  {
+    "trip": "P250U946",
+    "origin": "AJU",
+    "destiny": "VCP",
+    "departureDate": "2021-02-10",
+    "departure": "11:00",
+    "arrival": "14:40",
+    "value": 422.58
+  },
+  {
+    "trip": "N266P900",
+    "origin": "VCP",
+    "destiny": "FLN",
+    "departureDate": "2021-02-10",
+    "departure": "07:40",
+    "arrival": "16:20",
+    "value": 1192.39
+  },
+  {
+    "trip": "U276P928",
+    "origin": "VCP",
+    "destiny": "PLU",
+    "departureDate": "2021-02-10",
+    "departure": "08:40",
+    "arrival": "12:20",
+    "value": 235.28
+  },
+  {
+    "trip": "X254P990",
+    "origin": "VCP",
+    "destiny": "VIX",
+    "departureDate": "2021-02-10",
+    "departure": "11:20",
+    "arrival": "21:00",
+    "value": 1145.1
+  },
+  {
+    "trip": "U268P950",
+    "origin": "VCP",
+    "destiny": "AJU",
+    "departureDate": "2021-02-10",
+    "departure": "10:40",
+    "arrival": "14:20",
+    "value": 324.19
+  },
+  {
+    "trip": "N256W953",
+    "origin": "PMW",
+    "destiny": "FLN",
+    "departureDate": "2021-02-10",
+    "departure": "10:00",
+    "arrival": "21:20",
+    "value": 997.81
+  },
+  {
+    "trip": "H282W903",
+    "origin": "PMW",
+    "destiny": "CGH",
+    "departureDate": "2021-02-10",
+    "departure": "09:40",
+    "arrival": "19:40",
+    "value": 1199.58
+  },
+  {
+    "trip": "P275W920",
+    "origin": "PMW",
+    "destiny": "VCP",
+    "departureDate": "2021-02-10",
+    "departure": "07:00",
+    "arrival": "15:40",
+    "value": 752.56
+  },
+  {
+    "trip": "L215W937",
+    "origin": "PMW",
+    "destiny": "BEL",
+    "departureDate": "2021-02-10",
+    "departure": "10:20",
+    "arrival": "19:20",
+    "value": 950.25
+  },
+  {
+    "trip": "Z247U904",
+    "origin": "PLU",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-10",
+    "departure": "11:40",
+    "arrival": "20:20",
+    "value": 1095.25
+  },
+  {
+    "trip": "B233U977",
+    "origin": "PLU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-10",
+    "departure": "08:20",
+    "arrival": "13:00",
+    "value": 599.47
+  },
+  {
+    "trip": "W300U924",
+    "origin": "PLU",
+    "destiny": "PMW",
+    "departureDate": "2021-02-10",
+    "departure": "06:40",
+    "arrival": "16:40",
+    "value": 1196.67
+  },
+  {
+    "trip": "U240U930",
+    "origin": "PLU",
+    "destiny": "AJU",
+    "departureDate": "2021-02-10",
+    "departure": "08:00",
+    "arrival": "16:00",
+    "value": 776.67
+  },
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-11",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "U264B986",
+    "origin": "BSB",
+    "destiny": "AJU",
+    "departureDate": "2021-02-11",
+    "departure": "08:00",
+    "arrival": "15:40",
+    "value": 745.58
+  },
+  {
+    "trip": "N207B980",
+    "origin": "BSB",
+    "destiny": "FLN",
+    "departureDate": "2021-02-11",
+    "departure": "09:00",
+    "arrival": "19:20",
+    "value": 1347.21
+  },
+  {
+    "trip": "X282B992",
+    "origin": "BSB",
+    "destiny": "VIX",
+    "departureDate": "2021-02-11",
+    "departure": "07:20",
+    "arrival": "20:20",
+    "value": 1009.67
+  },
+  {
+    "trip": "L299X980",
+    "origin": "VIX",
+    "destiny": "BEL",
+    "departureDate": "2021-02-11",
+    "departure": "06:00",
+    "arrival": "22:40",
+    "value": 1067.36
+  },
+  {
+    "trip": "W200Z988",
+    "origin": "MCZ",
+    "destiny": "PMW",
+    "departureDate": "2021-02-11",
+    "departure": "11:00",
+    "arrival": "13:20",
+    "value": 222.74
+  },
+  {
+    "trip": "U270Z936",
+    "origin": "MCZ",
+    "destiny": "PLU",
+    "departureDate": "2021-02-11",
+    "departure": "07:40",
+    "arrival": "12:40",
+    "value": 384.38
+  },
+  {
+    "trip": "L259Z904",
+    "origin": "MCZ",
+    "destiny": "BEL",
+    "departureDate": "2021-02-11",
+    "departure": "08:40",
+    "arrival": "22:00",
+    "value": 1457.22
+  },
+  {
+    "trip": "N201Z960",
+    "origin": "MCZ",
+    "destiny": "FLN",
+    "departureDate": "2021-02-11",
+    "departure": "11:20",
+    "arrival": "23:00",
+    "value": 860.42
+  },
+  {
+    "trip": "X248L909",
+    "origin": "BEL",
+    "destiny": "VIX",
+    "departureDate": "2021-02-11",
+    "departure": "10:40",
+    "arrival": "17:20",
+    "value": 424.17
+  },
+  {
+    "trip": "B211L949",
+    "origin": "BEL",
+    "destiny": "BSB",
+    "departureDate": "2021-02-11",
+    "departure": "09:40",
+    "arrival": "21:40",
+    "value": 1141.5
+  },
+  {
+    "trip": "Z269N977",
+    "origin": "FLN",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-11",
+    "departure": "11:40",
+    "arrival": "17:00",
+    "value": 532.89
+  },
+  {
+    "trip": "U261N908",
+    "origin": "FLN",
+    "destiny": "AJU",
+    "departureDate": "2021-02-11",
+    "departure": "08:20",
+    "arrival": "19:00",
+    "value": 1144.89
+  },
+  {
+    "trip": "H295N957",
+    "origin": "FLN",
+    "destiny": "CGH",
+    "departureDate": "2021-02-11",
+    "departure": "06:40",
+    "arrival": "15:00",
+    "value": 1130.9
+  },
+  {
+    "trip": "H294U916",
+    "origin": "AJU",
+    "destiny": "CGH",
+    "departureDate": "2021-02-11",
+    "departure": "09:20",
+    "arrival": "15:20",
+    "value": 599.75
+  },
+  {
+    "trip": "B232U928",
+    "origin": "AJU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-11",
+    "departure": "06:00",
+    "arrival": "22:20",
+    "value": 1186.21
+  },
+  {
+    "trip": "P250U946",
+    "origin": "AJU",
+    "destiny": "VCP",
+    "departureDate": "2021-02-11",
+    "departure": "11:00",
+    "arrival": "14:40",
+    "value": 422.58
+  },
+  {
+    "trip": "N266P900",
+    "origin": "VCP",
+    "destiny": "FLN",
+    "departureDate": "2021-02-11",
+    "departure": "07:40",
+    "arrival": "16:20",
+    "value": 1192.39
+  },
+  {
+    "trip": "U276P928",
+    "origin": "VCP",
+    "destiny": "PLU",
+    "departureDate": "2021-02-11",
+    "departure": "08:40",
+    "arrival": "12:20",
+    "value": 235.28
+  },
+  {
+    "trip": "X254P990",
+    "origin": "VCP",
+    "destiny": "VIX",
+    "departureDate": "2021-02-11",
+    "departure": "11:20",
+    "arrival": "21:00",
+    "value": 1145.1
+  },
+  {
+    "trip": "U268P950",
+    "origin": "VCP",
+    "destiny": "AJU",
+    "departureDate": "2021-02-11",
+    "departure": "10:40",
+    "arrival": "14:20",
+    "value": 324.19
+  },
+  {
+    "trip": "N256W953",
+    "origin": "PMW",
+    "destiny": "FLN",
+    "departureDate": "2021-02-11",
+    "departure": "10:00",
+    "arrival": "21:20",
+    "value": 997.81
+  },
+  {
+    "trip": "H282W903",
+    "origin": "PMW",
+    "destiny": "CGH",
+    "departureDate": "2021-02-11",
+    "departure": "09:40",
+    "arrival": "19:40",
+    "value": 1199.58
+  },
+  {
+    "trip": "P275W920",
+    "origin": "PMW",
+    "destiny": "VCP",
+    "departureDate": "2021-02-11",
+    "departure": "07:00",
+    "arrival": "15:40",
+    "value": 752.56
+  },
+  {
+    "trip": "L215W937",
+    "origin": "PMW",
+    "destiny": "BEL",
+    "departureDate": "2021-02-11",
+    "departure": "10:20",
+    "arrival": "19:20",
+    "value": 950.25
+  },
+  {
+    "trip": "Z247U904",
+    "origin": "PLU",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-11",
+    "departure": "11:40",
+    "arrival": "20:20",
+    "value": 1095.25
+  },
+  {
+    "trip": "B233U977",
+    "origin": "PLU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-11",
+    "departure": "08:20",
+    "arrival": "13:00",
+    "value": 599.47
+  },
+  {
+    "trip": "W300U924",
+    "origin": "PLU",
+    "destiny": "PMW",
+    "departureDate": "2021-02-11",
+    "departure": "06:40",
+    "arrival": "16:40",
+    "value": 1196.67
+  },
+  {
+    "trip": "U240U930",
+    "origin": "PLU",
+    "destiny": "AJU",
+    "departureDate": "2021-02-11",
+    "departure": "08:00",
+    "arrival": "16:00",
+    "value": 776.67
+  },
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-12",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "X282B992",
+    "origin": "BSB",
+    "destiny": "VIX",
+    "departureDate": "2021-02-12",
+    "departure": "07:20",
+    "arrival": "20:20",
+    "value": 1009.67
+  },
+  {
+    "trip": "H219X969",
+    "origin": "VIX",
+    "destiny": "CGH",
+    "departureDate": "2021-02-12",
+    "departure": "12:00",
+    "arrival": "13:00",
+    "value": 106.25
+  },
+  {
+    "trip": "B232X995",
+    "origin": "VIX",
+    "destiny": "BSB",
+    "departureDate": "2021-02-12",
+    "departure": "09:20",
+    "arrival": "16:00",
+    "value": 425.56
+  },
+  {
+    "trip": "L299X980",
+    "origin": "VIX",
+    "destiny": "BEL",
+    "departureDate": "2021-02-12",
+    "departure": "06:00",
+    "arrival": "22:40",
+    "value": 1067.36
+  },
+  {
+    "trip": "W200Z988",
+    "origin": "MCZ",
+    "destiny": "PMW",
+    "departureDate": "2021-02-12",
+    "departure": "11:00",
+    "arrival": "13:20",
+    "value": 222.74
+  },
+  {
+    "trip": "L259Z904",
+    "origin": "MCZ",
+    "destiny": "BEL",
+    "departureDate": "2021-02-12",
+    "departure": "08:40",
+    "arrival": "22:00",
+    "value": 1457.22
+  },
+  {
+    "trip": "N201Z960",
+    "origin": "MCZ",
+    "destiny": "FLN",
+    "departureDate": "2021-02-12",
+    "departure": "11:20",
+    "arrival": "23:00",
+    "value": 860.42
+  },
+  {
+    "trip": "U245L931",
+    "origin": "BEL",
+    "destiny": "PLU",
+    "departureDate": "2021-02-12",
+    "departure": "10:00",
+    "arrival": "18:00",
+    "value": 1097
+  },
+  {
+    "trip": "B211L949",
+    "origin": "BEL",
+    "destiny": "BSB",
+    "departureDate": "2021-02-12",
+    "departure": "09:40",
+    "arrival": "21:40",
+    "value": 1141.5
+  },
+  {
+    "trip": "W299L976",
+    "origin": "BEL",
+    "destiny": "PMW",
+    "departureDate": "2021-02-12",
+    "departure": "07:00",
+    "arrival": "13:40",
+    "value": 851.39
+  },
+  {
+    "trip": "P212N917",
+    "origin": "FLN",
+    "destiny": "VCP",
+    "departureDate": "2021-02-12",
+    "departure": "10:20",
+    "arrival": "17:40",
+    "value": 572.92
+  },
+  {
+    "trip": "W204H993",
+    "origin": "CGH",
+    "destiny": "PMW",
+    "departureDate": "2021-02-12",
+    "departure": "08:00",
+    "arrival": "20:40",
+    "value": 1469.33
+  },
+  {
+    "trip": "U207H952",
+    "origin": "CGH",
+    "destiny": "AJU",
+    "departureDate": "2021-02-12",
+    "departure": "09:00",
+    "arrival": "18:40",
+    "value": 645.25
+  },
+  {
+    "trip": "Z293H923",
+    "origin": "CGH",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-12",
+    "departure": "07:20",
+    "arrival": "14:00",
+    "value": 523.06
+  },
+  {
+    "trip": "X242H996",
+    "origin": "CGH",
+    "destiny": "VIX",
+    "departureDate": "2021-02-12",
+    "departure": "12:00",
+    "arrival": "20:00",
+    "value": 1039.33
+  },
+  {
+    "trip": "L248U962",
+    "origin": "AJU",
+    "destiny": "BEL",
+    "departureDate": "2021-02-12",
+    "departure": "06:20",
+    "arrival": "18:20",
+    "value": 1107.5
+  },
+  {
+    "trip": "H294U916",
+    "origin": "AJU",
+    "destiny": "CGH",
+    "departureDate": "2021-02-12",
+    "departure": "09:20",
+    "arrival": "15:20",
+    "value": 599.75
+  },
+  {
+    "trip": "N266P900",
+    "origin": "VCP",
+    "destiny": "FLN",
+    "departureDate": "2021-02-12",
+    "departure": "07:40",
+    "arrival": "16:20",
+    "value": 1192.39
+  },
+  {
+    "trip": "U268P950",
+    "origin": "VCP",
+    "destiny": "AJU",
+    "departureDate": "2021-02-12",
+    "departure": "10:40",
+    "arrival": "14:20",
+    "value": 324.19
+  },
+  {
+    "trip": "N256W953",
+    "origin": "PMW",
+    "destiny": "FLN",
+    "departureDate": "2021-02-12",
+    "departure": "10:00",
+    "arrival": "21:20",
+    "value": 997.81
+  },
+  {
+    "trip": "H282W903",
+    "origin": "PMW",
+    "destiny": "CGH",
+    "departureDate": "2021-02-12",
+    "departure": "09:40",
+    "arrival": "19:40",
+    "value": 1199.58
+  },
+  {
+    "trip": "Z247U904",
+    "origin": "PLU",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-12",
+    "departure": "11:40",
+    "arrival": "20:20",
+    "value": 1095.25
+  },
+  {
+    "trip": "B233U977",
+    "origin": "PLU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-12",
+    "departure": "08:20",
+    "arrival": "13:00",
+    "value": 599.47
+  },
+  {
+    "trip": "U240U930",
+    "origin": "PLU",
+    "destiny": "AJU",
+    "departureDate": "2021-02-12",
+    "departure": "08:00",
+    "arrival": "16:00",
+    "value": 776.67
+  },
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-13",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "X282B992",
+    "origin": "BSB",
+    "destiny": "VIX",
+    "departureDate": "2021-02-13",
+    "departure": "07:20",
+    "arrival": "20:20",
+    "value": 1009.67
+  },
+  {
+    "trip": "H219X969",
+    "origin": "VIX",
+    "destiny": "CGH",
+    "departureDate": "2021-02-13",
+    "departure": "12:00",
+    "arrival": "13:00",
+    "value": 106.25
+  },
+  {
+    "trip": "Z222X942",
+    "origin": "VIX",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-13",
+    "departure": "06:20",
+    "arrival": "16:40",
+    "value": 1002.76
+  },
+  {
+    "trip": "B232X995",
+    "origin": "VIX",
+    "destiny": "BSB",
+    "departureDate": "2021-02-13",
+    "departure": "09:20",
+    "arrival": "16:00",
+    "value": 425.56
+  },
+  {
+    "trip": "U270Z936",
+    "origin": "MCZ",
+    "destiny": "PLU",
+    "departureDate": "2021-02-13",
+    "departure": "07:40",
+    "arrival": "12:40",
+    "value": 384.38
+  },
+  {
+    "trip": "N201Z960",
+    "origin": "MCZ",
+    "destiny": "FLN",
+    "departureDate": "2021-02-13",
+    "departure": "11:20",
+    "arrival": "23:00",
+    "value": 860.42
+  },
+  {
+    "trip": "X248L909",
+    "origin": "BEL",
+    "destiny": "VIX",
+    "departureDate": "2021-02-13",
+    "departure": "10:40",
+    "arrival": "17:20",
+    "value": 424.17
+  },
+  {
+    "trip": "U245L931",
+    "origin": "BEL",
+    "destiny": "PLU",
+    "departureDate": "2021-02-13",
+    "departure": "10:00",
+    "arrival": "18:00",
+    "value": 1097
+  },
+  {
+    "trip": "W299L976",
+    "origin": "BEL",
+    "destiny": "PMW",
+    "departureDate": "2021-02-13",
+    "departure": "07:00",
+    "arrival": "13:40",
+    "value": 851.39
+  },
+  {
+    "trip": "P212N917",
+    "origin": "FLN",
+    "destiny": "VCP",
+    "departureDate": "2021-02-13",
+    "departure": "10:20",
+    "arrival": "17:40",
+    "value": 572.92
+  },
+  {
+    "trip": "U261N908",
+    "origin": "FLN",
+    "destiny": "AJU",
+    "departureDate": "2021-02-13",
+    "departure": "08:20",
+    "arrival": "19:00",
+    "value": 1144.89
+  },
+  {
+    "trip": "H295N957",
+    "origin": "FLN",
+    "destiny": "CGH",
+    "departureDate": "2021-02-13",
+    "departure": "06:40",
+    "arrival": "15:00",
+    "value": 1130.9
+  },
+  {
+    "trip": "W204H993",
+    "origin": "CGH",
+    "destiny": "PMW",
+    "departureDate": "2021-02-13",
+    "departure": "08:00",
+    "arrival": "20:40",
+    "value": 1469.33
+  },
+  {
+    "trip": "U207H952",
+    "origin": "CGH",
+    "destiny": "AJU",
+    "departureDate": "2021-02-13",
+    "departure": "09:00",
+    "arrival": "18:40",
+    "value": 645.25
+  },
+  {
+    "trip": "X242H996",
+    "origin": "CGH",
+    "destiny": "VIX",
+    "departureDate": "2021-02-13",
+    "departure": "12:00",
+    "arrival": "20:00",
+    "value": 1039.33
+  },
+  {
+    "trip": "L248U962",
+    "origin": "AJU",
+    "destiny": "BEL",
+    "departureDate": "2021-02-13",
+    "departure": "06:20",
+    "arrival": "18:20",
+    "value": 1107.5
+  },
+  {
+    "trip": "H294U916",
+    "origin": "AJU",
+    "destiny": "CGH",
+    "departureDate": "2021-02-13",
+    "departure": "09:20",
+    "arrival": "15:20",
+    "value": 599.75
+  },
+  {
+    "trip": "B232U928",
+    "origin": "AJU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-13",
+    "departure": "06:00",
+    "arrival": "22:20",
+    "value": 1186.21
+  },
+  {
+    "trip": "P250U946",
+    "origin": "AJU",
+    "destiny": "VCP",
+    "departureDate": "2021-02-13",
+    "departure": "11:00",
+    "arrival": "14:40",
+    "value": 422.58
+  },
+  {
+    "trip": "U276P928",
+    "origin": "VCP",
+    "destiny": "PLU",
+    "departureDate": "2021-02-13",
+    "departure": "08:40",
+    "arrival": "12:20",
+    "value": 235.28
+  },
+  {
+    "trip": "X254P990",
+    "origin": "VCP",
+    "destiny": "VIX",
+    "departureDate": "2021-02-13",
+    "departure": "11:20",
+    "arrival": "21:00",
+    "value": 1145.1
+  },
+  {
+    "trip": "N256W953",
+    "origin": "PMW",
+    "destiny": "FLN",
+    "departureDate": "2021-02-13",
+    "departure": "10:00",
+    "arrival": "21:20",
+    "value": 997.81
+  },
+  {
+    "trip": "P275W920",
+    "origin": "PMW",
+    "destiny": "VCP",
+    "departureDate": "2021-02-13",
+    "departure": "07:00",
+    "arrival": "15:40",
+    "value": 752.56
+  },
+  {
+    "trip": "L215W937",
+    "origin": "PMW",
+    "destiny": "BEL",
+    "departureDate": "2021-02-13",
+    "departure": "10:20",
+    "arrival": "19:20",
+    "value": 950.25
+  },
+  {
+    "trip": "B233U977",
+    "origin": "PLU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-13",
+    "departure": "08:20",
+    "arrival": "13:00",
+    "value": 599.47
+  },
+  {
+    "trip": "W300U924",
+    "origin": "PLU",
+    "destiny": "PMW",
+    "departureDate": "2021-02-13",
+    "departure": "06:40",
+    "arrival": "16:40",
+    "value": 1196.67
+  },
+  {
+    "trip": "U240U930",
+    "origin": "PLU",
+    "destiny": "AJU",
+    "departureDate": "2021-02-13",
+    "departure": "08:00",
+    "arrival": "16:00",
+    "value": 776.67
+  },
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-14",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "U264B986",
+    "origin": "BSB",
+    "destiny": "AJU",
+    "departureDate": "2021-02-14",
+    "departure": "08:00",
+    "arrival": "15:40",
+    "value": 745.58
+  },
+  {
+    "trip": "X282B992",
+    "origin": "BSB",
+    "destiny": "VIX",
+    "departureDate": "2021-02-14",
+    "departure": "07:20",
+    "arrival": "20:20",
+    "value": 1009.67
+  },
+  {
+    "trip": "Z222X942",
+    "origin": "VIX",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-14",
+    "departure": "06:20",
+    "arrival": "16:40",
+    "value": 1002.76
+  },
+  {
+    "trip": "L299X980",
+    "origin": "VIX",
+    "destiny": "BEL",
+    "departureDate": "2021-02-14",
+    "departure": "06:00",
+    "arrival": "22:40",
+    "value": 1067.36
+  },
+  {
+    "trip": "W200Z988",
+    "origin": "MCZ",
+    "destiny": "PMW",
+    "departureDate": "2021-02-14",
+    "departure": "11:00",
+    "arrival": "13:20",
+    "value": 222.74
+  },
+  {
+    "trip": "U270Z936",
+    "origin": "MCZ",
+    "destiny": "PLU",
+    "departureDate": "2021-02-14",
+    "departure": "07:40",
+    "arrival": "12:40",
+    "value": 384.38
+  },
+  {
+    "trip": "L259Z904",
+    "origin": "MCZ",
+    "destiny": "BEL",
+    "departureDate": "2021-02-14",
+    "departure": "08:40",
+    "arrival": "22:00",
+    "value": 1457.22
+  },
+  {
+    "trip": "N201Z960",
+    "origin": "MCZ",
+    "destiny": "FLN",
+    "departureDate": "2021-02-14",
+    "departure": "11:20",
+    "arrival": "23:00",
+    "value": 860.42
+  },
+  {
+    "trip": "X248L909",
+    "origin": "BEL",
+    "destiny": "VIX",
+    "departureDate": "2021-02-14",
+    "departure": "10:40",
+    "arrival": "17:20",
+    "value": 424.17
+  },
+  {
+    "trip": "B211L949",
+    "origin": "BEL",
+    "destiny": "BSB",
+    "departureDate": "2021-02-14",
+    "departure": "09:40",
+    "arrival": "21:40",
+    "value": 1141.5
+  },
+  {
+    "trip": "W299L976",
+    "origin": "BEL",
+    "destiny": "PMW",
+    "departureDate": "2021-02-14",
+    "departure": "07:00",
+    "arrival": "13:40",
+    "value": 851.39
+  },
+  {
+    "trip": "P212N917",
+    "origin": "FLN",
+    "destiny": "VCP",
+    "departureDate": "2021-02-14",
+    "departure": "10:20",
+    "arrival": "17:40",
+    "value": 572.92
+  },
+  {
+    "trip": "Z269N977",
+    "origin": "FLN",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-14",
+    "departure": "11:40",
+    "arrival": "17:00",
+    "value": 532.89
+  },
+  {
+    "trip": "H295N957",
+    "origin": "FLN",
+    "destiny": "CGH",
+    "departureDate": "2021-02-14",
+    "departure": "06:40",
+    "arrival": "15:00",
+    "value": 1130.9
+  },
+  {
+    "trip": "W204H993",
+    "origin": "CGH",
+    "destiny": "PMW",
+    "departureDate": "2021-02-14",
+    "departure": "08:00",
+    "arrival": "20:40",
+    "value": 1469.33
+  },
+  {
+    "trip": "Z293H923",
+    "origin": "CGH",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-14",
+    "departure": "07:20",
+    "arrival": "14:00",
+    "value": 523.06
+  },
+  {
+    "trip": "X242H996",
+    "origin": "CGH",
+    "destiny": "VIX",
+    "departureDate": "2021-02-14",
+    "departure": "12:00",
+    "arrival": "20:00",
+    "value": 1039.33
+  },
+  {
+    "trip": "L248U962",
+    "origin": "AJU",
+    "destiny": "BEL",
+    "departureDate": "2021-02-14",
+    "departure": "06:20",
+    "arrival": "18:20",
+    "value": 1107.5
+  },
+  {
+    "trip": "N266P900",
+    "origin": "VCP",
+    "destiny": "FLN",
+    "departureDate": "2021-02-14",
+    "departure": "07:40",
+    "arrival": "16:20",
+    "value": 1192.39
+  },
+  {
+    "trip": "U276P928",
+    "origin": "VCP",
+    "destiny": "PLU",
+    "departureDate": "2021-02-14",
+    "departure": "08:40",
+    "arrival": "12:20",
+    "value": 235.28
+  },
+  {
+    "trip": "X254P990",
+    "origin": "VCP",
+    "destiny": "VIX",
+    "departureDate": "2021-02-14",
+    "departure": "11:20",
+    "arrival": "21:00",
+    "value": 1145.1
+  },
+  {
+    "trip": "U268P950",
+    "origin": "VCP",
+    "destiny": "AJU",
+    "departureDate": "2021-02-14",
+    "departure": "10:40",
+    "arrival": "14:20",
+    "value": 324.19
+  },
+  {
+    "trip": "Z247U904",
+    "origin": "PLU",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-14",
+    "departure": "11:40",
+    "arrival": "20:20",
+    "value": 1095.25
+  },
+  {
+    "trip": "B233U977",
+    "origin": "PLU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-14",
+    "departure": "08:20",
+    "arrival": "13:00",
+    "value": 599.47
+  },
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-15",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "U264B986",
+    "origin": "BSB",
+    "destiny": "AJU",
+    "departureDate": "2021-02-15",
+    "departure": "08:00",
+    "arrival": "15:40",
+    "value": 745.58
+  },
+  {
+    "trip": "N207B980",
+    "origin": "BSB",
+    "destiny": "FLN",
+    "departureDate": "2021-02-15",
+    "departure": "09:00",
+    "arrival": "19:20",
+    "value": 1347.21
+  },
+  {
+    "trip": "H219X969",
+    "origin": "VIX",
+    "destiny": "CGH",
+    "departureDate": "2021-02-15",
+    "departure": "12:00",
+    "arrival": "13:00",
+    "value": 106.25
+  },
+  {
+    "trip": "Z222X942",
+    "origin": "VIX",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-15",
+    "departure": "06:20",
+    "arrival": "16:40",
+    "value": 1002.76
+  },
+  {
+    "trip": "B232X995",
+    "origin": "VIX",
+    "destiny": "BSB",
+    "departureDate": "2021-02-15",
+    "departure": "09:20",
+    "arrival": "16:00",
+    "value": 425.56
+  },
+  {
+    "trip": "L299X980",
+    "origin": "VIX",
+    "destiny": "BEL",
+    "departureDate": "2021-02-15",
+    "departure": "06:00",
+    "arrival": "22:40",
+    "value": 1067.36
+  },
+  {
+    "trip": "U270Z936",
+    "origin": "MCZ",
+    "destiny": "PLU",
+    "departureDate": "2021-02-15",
+    "departure": "07:40",
+    "arrival": "12:40",
+    "value": 384.38
+  },
+  {
+    "trip": "N201Z960",
+    "origin": "MCZ",
+    "destiny": "FLN",
+    "departureDate": "2021-02-15",
+    "departure": "11:20",
+    "arrival": "23:00",
+    "value": 860.42
+  },
+  {
+    "trip": "X248L909",
+    "origin": "BEL",
+    "destiny": "VIX",
+    "departureDate": "2021-02-15",
+    "departure": "10:40",
+    "arrival": "17:20",
+    "value": 424.17
+  },
+  {
+    "trip": "U245L931",
+    "origin": "BEL",
+    "destiny": "PLU",
+    "departureDate": "2021-02-15",
+    "departure": "10:00",
+    "arrival": "18:00",
+    "value": 1097
+  },
+  {
+    "trip": "W299L976",
+    "origin": "BEL",
+    "destiny": "PMW",
+    "departureDate": "2021-02-15",
+    "departure": "07:00",
+    "arrival": "13:40",
+    "value": 851.39
+  },
+  {
+    "trip": "P212N917",
+    "origin": "FLN",
+    "destiny": "VCP",
+    "departureDate": "2021-02-15",
+    "departure": "10:20",
+    "arrival": "17:40",
+    "value": 572.92
+  },
+  {
+    "trip": "U261N908",
+    "origin": "FLN",
+    "destiny": "AJU",
+    "departureDate": "2021-02-15",
+    "departure": "08:20",
+    "arrival": "19:00",
+    "value": 1144.89
+  },
+  {
+    "trip": "W204H993",
+    "origin": "CGH",
+    "destiny": "PMW",
+    "departureDate": "2021-02-15",
+    "departure": "08:00",
+    "arrival": "20:40",
+    "value": 1469.33
+  },
+  {
+    "trip": "U207H952",
+    "origin": "CGH",
+    "destiny": "AJU",
+    "departureDate": "2021-02-15",
+    "departure": "09:00",
+    "arrival": "18:40",
+    "value": 645.25
+  },
+  {
+    "trip": "Z293H923",
+    "origin": "CGH",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-15",
+    "departure": "07:20",
+    "arrival": "14:00",
+    "value": 523.06
+  },
+  {
+    "trip": "L248U962",
+    "origin": "AJU",
+    "destiny": "BEL",
+    "departureDate": "2021-02-15",
+    "departure": "06:20",
+    "arrival": "18:20",
+    "value": 1107.5
+  },
+  {
+    "trip": "H294U916",
+    "origin": "AJU",
+    "destiny": "CGH",
+    "departureDate": "2021-02-15",
+    "departure": "09:20",
+    "arrival": "15:20",
+    "value": 599.75
+  },
+  {
+    "trip": "B232U928",
+    "origin": "AJU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-15",
+    "departure": "06:00",
+    "arrival": "22:20",
+    "value": 1186.21
+  },
+  {
+    "trip": "P250U946",
+    "origin": "AJU",
+    "destiny": "VCP",
+    "departureDate": "2021-02-15",
+    "departure": "11:00",
+    "arrival": "14:40",
+    "value": 422.58
+  },
+  {
+    "trip": "N266P900",
+    "origin": "VCP",
+    "destiny": "FLN",
+    "departureDate": "2021-02-15",
+    "departure": "07:40",
+    "arrival": "16:20",
+    "value": 1192.39
+  },
+  {
+    "trip": "U276P928",
+    "origin": "VCP",
+    "destiny": "PLU",
+    "departureDate": "2021-02-15",
+    "departure": "08:40",
+    "arrival": "12:20",
+    "value": 235.28
+  },
+  {
+    "trip": "X254P990",
+    "origin": "VCP",
+    "destiny": "VIX",
+    "departureDate": "2021-02-15",
+    "departure": "11:20",
+    "arrival": "21:00",
+    "value": 1145.1
+  },
+  {
+    "trip": "U268P950",
+    "origin": "VCP",
+    "destiny": "AJU",
+    "departureDate": "2021-02-15",
+    "departure": "10:40",
+    "arrival": "14:20",
+    "value": 324.19
+  },
+  {
+    "trip": "B233U977",
+    "origin": "PLU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-15",
+    "departure": "08:20",
+    "arrival": "13:00",
+    "value": 599.47
+  },
+  {
+    "trip": "W300U924",
+    "origin": "PLU",
+    "destiny": "PMW",
+    "departureDate": "2021-02-15",
+    "departure": "06:40",
+    "arrival": "16:40",
+    "value": 1196.67
+  },
+  {
+    "trip": "U240U930",
+    "origin": "PLU",
+    "destiny": "AJU",
+    "departureDate": "2021-02-15",
+    "departure": "08:00",
+    "arrival": "16:00",
+    "value": 776.67
+  },
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-16",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "U264B986",
+    "origin": "BSB",
+    "destiny": "AJU",
+    "departureDate": "2021-02-16",
+    "departure": "08:00",
+    "arrival": "15:40",
+    "value": 745.58
+  },
+  {
+    "trip": "N207B980",
+    "origin": "BSB",
+    "destiny": "FLN",
+    "departureDate": "2021-02-16",
+    "departure": "09:00",
+    "arrival": "19:20",
+    "value": 1347.21
+  },
+  {
+    "trip": "X282B992",
+    "origin": "BSB",
+    "destiny": "VIX",
+    "departureDate": "2021-02-16",
+    "departure": "07:20",
+    "arrival": "20:20",
+    "value": 1009.67
+  },
+  {
+    "trip": "H219X969",
+    "origin": "VIX",
+    "destiny": "CGH",
+    "departureDate": "2021-02-16",
+    "departure": "12:00",
+    "arrival": "13:00",
+    "value": 106.25
+  },
+  {
+    "trip": "Z222X942",
+    "origin": "VIX",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-16",
+    "departure": "06:20",
+    "arrival": "16:40",
+    "value": 1002.76
+  },
+  {
+    "trip": "W200Z988",
+    "origin": "MCZ",
+    "destiny": "PMW",
+    "departureDate": "2021-02-16",
+    "departure": "11:00",
+    "arrival": "13:20",
+    "value": 222.74
+  },
+  {
+    "trip": "L259Z904",
+    "origin": "MCZ",
+    "destiny": "BEL",
+    "departureDate": "2021-02-16",
+    "departure": "08:40",
+    "arrival": "22:00",
+    "value": 1457.22
+  },
+  {
+    "trip": "X248L909",
+    "origin": "BEL",
+    "destiny": "VIX",
+    "departureDate": "2021-02-16",
+    "departure": "10:40",
+    "arrival": "17:20",
+    "value": 424.17
+  },
+  {
+    "trip": "W299L976",
+    "origin": "BEL",
+    "destiny": "PMW",
+    "departureDate": "2021-02-16",
+    "departure": "07:00",
+    "arrival": "13:40",
+    "value": 851.39
+  },
+  {
+    "trip": "P212N917",
+    "origin": "FLN",
+    "destiny": "VCP",
+    "departureDate": "2021-02-16",
+    "departure": "10:20",
+    "arrival": "17:40",
+    "value": 572.92
+  },
+  {
+    "trip": "Z269N977",
+    "origin": "FLN",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-16",
+    "departure": "11:40",
+    "arrival": "17:00",
+    "value": 532.89
+  },
+  {
+    "trip": "U261N908",
+    "origin": "FLN",
+    "destiny": "AJU",
+    "departureDate": "2021-02-16",
+    "departure": "08:20",
+    "arrival": "19:00",
+    "value": 1144.89
+  },
+  {
+    "trip": "H295N957",
+    "origin": "FLN",
+    "destiny": "CGH",
+    "departureDate": "2021-02-16",
+    "departure": "06:40",
+    "arrival": "15:00",
+    "value": 1130.9
+  },
+  {
+    "trip": "W204H993",
+    "origin": "CGH",
+    "destiny": "PMW",
+    "departureDate": "2021-02-16",
+    "departure": "08:00",
+    "arrival": "20:40",
+    "value": 1469.33
+  },
+  {
+    "trip": "U207H952",
+    "origin": "CGH",
+    "destiny": "AJU",
+    "departureDate": "2021-02-16",
+    "departure": "09:00",
+    "arrival": "18:40",
+    "value": 645.25
+  },
+  {
+    "trip": "Z293H923",
+    "origin": "CGH",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-16",
+    "departure": "07:20",
+    "arrival": "14:00",
+    "value": 523.06
+  },
+  {
+    "trip": "X242H996",
+    "origin": "CGH",
+    "destiny": "VIX",
+    "departureDate": "2021-02-16",
+    "departure": "12:00",
+    "arrival": "20:00",
+    "value": 1039.33
+  },
+  {
+    "trip": "L248U962",
+    "origin": "AJU",
+    "destiny": "BEL",
+    "departureDate": "2021-02-16",
+    "departure": "06:20",
+    "arrival": "18:20",
+    "value": 1107.5
+  },
+  {
+    "trip": "H294U916",
+    "origin": "AJU",
+    "destiny": "CGH",
+    "departureDate": "2021-02-16",
+    "departure": "09:20",
+    "arrival": "15:20",
+    "value": 599.75
+  },
+  {
+    "trip": "B232U928",
+    "origin": "AJU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-16",
+    "departure": "06:00",
+    "arrival": "22:20",
+    "value": 1186.21
+  },
+  {
+    "trip": "N266P900",
+    "origin": "VCP",
+    "destiny": "FLN",
+    "departureDate": "2021-02-16",
+    "departure": "07:40",
+    "arrival": "16:20",
+    "value": 1192.39
+  },
+  {
+    "trip": "U276P928",
+    "origin": "VCP",
+    "destiny": "PLU",
+    "departureDate": "2021-02-16",
+    "departure": "08:40",
+    "arrival": "12:20",
+    "value": 235.28
+  },
+  {
+    "trip": "U268P950",
+    "origin": "VCP",
+    "destiny": "AJU",
+    "departureDate": "2021-02-16",
+    "departure": "10:40",
+    "arrival": "14:20",
+    "value": 324.19
+  },
+  {
+    "trip": "N256W953",
+    "origin": "PMW",
+    "destiny": "FLN",
+    "departureDate": "2021-02-16",
+    "departure": "10:00",
+    "arrival": "21:20",
+    "value": 997.81
+  },
+  {
+    "trip": "P275W920",
+    "origin": "PMW",
+    "destiny": "VCP",
+    "departureDate": "2021-02-16",
+    "departure": "07:00",
+    "arrival": "15:40",
+    "value": 752.56
+  },
+  {
+    "trip": "L215W937",
+    "origin": "PMW",
+    "destiny": "BEL",
+    "departureDate": "2021-02-16",
+    "departure": "10:20",
+    "arrival": "19:20",
+    "value": 950.25
+  },
+  {
+    "trip": "B233U977",
+    "origin": "PLU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-16",
+    "departure": "08:20",
+    "arrival": "13:00",
+    "value": 599.47
+  },
+  {
+    "trip": "W300U924",
+    "origin": "PLU",
+    "destiny": "PMW",
+    "departureDate": "2021-02-16",
+    "departure": "06:40",
+    "arrival": "16:40",
+    "value": 1196.67
+  },
+  {
+    "trip": "U240U930",
+    "origin": "PLU",
+    "destiny": "AJU",
+    "departureDate": "2021-02-16",
+    "departure": "08:00",
+    "arrival": "16:00",
+    "value": 776.67
+  },
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-17",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "U264B986",
+    "origin": "BSB",
+    "destiny": "AJU",
+    "departureDate": "2021-02-17",
+    "departure": "08:00",
+    "arrival": "15:40",
+    "value": 745.58
+  },
+  {
+    "trip": "N207B980",
+    "origin": "BSB",
+    "destiny": "FLN",
+    "departureDate": "2021-02-17",
+    "departure": "09:00",
+    "arrival": "19:20",
+    "value": 1347.21
+  },
+  {
+    "trip": "X282B992",
+    "origin": "BSB",
+    "destiny": "VIX",
+    "departureDate": "2021-02-17",
+    "departure": "07:20",
+    "arrival": "20:20",
+    "value": 1009.67
+  },
+  {
+    "trip": "H219X969",
+    "origin": "VIX",
+    "destiny": "CGH",
+    "departureDate": "2021-02-17",
+    "departure": "12:00",
+    "arrival": "13:00",
+    "value": 106.25
+  },
+  {
+    "trip": "Z222X942",
+    "origin": "VIX",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-17",
+    "departure": "06:20",
+    "arrival": "16:40",
+    "value": 1002.76
+  },
+  {
+    "trip": "L299X980",
+    "origin": "VIX",
+    "destiny": "BEL",
+    "departureDate": "2021-02-17",
+    "departure": "06:00",
+    "arrival": "22:40",
+    "value": 1067.36
+  },
+  {
+    "trip": "W200Z988",
+    "origin": "MCZ",
+    "destiny": "PMW",
+    "departureDate": "2021-02-17",
+    "departure": "11:00",
+    "arrival": "13:20",
+    "value": 222.74
+  },
+  {
+    "trip": "L259Z904",
+    "origin": "MCZ",
+    "destiny": "BEL",
+    "departureDate": "2021-02-17",
+    "departure": "08:40",
+    "arrival": "22:00",
+    "value": 1457.22
+  },
+  {
+    "trip": "N201Z960",
+    "origin": "MCZ",
+    "destiny": "FLN",
+    "departureDate": "2021-02-17",
+    "departure": "11:20",
+    "arrival": "23:00",
+    "value": 860.42
+  },
+  {
+    "trip": "X248L909",
+    "origin": "BEL",
+    "destiny": "VIX",
+    "departureDate": "2021-02-17",
+    "departure": "10:40",
+    "arrival": "17:20",
+    "value": 424.17
+  },
+  {
+    "trip": "U245L931",
+    "origin": "BEL",
+    "destiny": "PLU",
+    "departureDate": "2021-02-17",
+    "departure": "10:00",
+    "arrival": "18:00",
+    "value": 1097
+  },
+  {
+    "trip": "B211L949",
+    "origin": "BEL",
+    "destiny": "BSB",
+    "departureDate": "2021-02-17",
+    "departure": "09:40",
+    "arrival": "21:40",
+    "value": 1141.5
+  },
+  {
+    "trip": "P212N917",
+    "origin": "FLN",
+    "destiny": "VCP",
+    "departureDate": "2021-02-17",
+    "departure": "10:20",
+    "arrival": "17:40",
+    "value": 572.92
+  },
+  {
+    "trip": "Z269N977",
+    "origin": "FLN",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-17",
+    "departure": "11:40",
+    "arrival": "17:00",
+    "value": 532.89
+  },
+  {
+    "trip": "U261N908",
+    "origin": "FLN",
+    "destiny": "AJU",
+    "departureDate": "2021-02-17",
+    "departure": "08:20",
+    "arrival": "19:00",
+    "value": 1144.89
+  },
+  {
+    "trip": "H295N957",
+    "origin": "FLN",
+    "destiny": "CGH",
+    "departureDate": "2021-02-17",
+    "departure": "06:40",
+    "arrival": "15:00",
+    "value": 1130.9
+  },
+  {
+    "trip": "W204H993",
+    "origin": "CGH",
+    "destiny": "PMW",
+    "departureDate": "2021-02-17",
+    "departure": "08:00",
+    "arrival": "20:40",
+    "value": 1469.33
+  },
+  {
+    "trip": "Z293H923",
+    "origin": "CGH",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-17",
+    "departure": "07:20",
+    "arrival": "14:00",
+    "value": 523.06
+  },
+  {
+    "trip": "X242H996",
+    "origin": "CGH",
+    "destiny": "VIX",
+    "departureDate": "2021-02-17",
+    "departure": "12:00",
+    "arrival": "20:00",
+    "value": 1039.33
+  },
+  {
+    "trip": "L248U962",
+    "origin": "AJU",
+    "destiny": "BEL",
+    "departureDate": "2021-02-17",
+    "departure": "06:20",
+    "arrival": "18:20",
+    "value": 1107.5
+  },
+  {
+    "trip": "B232U928",
+    "origin": "AJU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-17",
+    "departure": "06:00",
+    "arrival": "22:20",
+    "value": 1186.21
+  },
+  {
+    "trip": "P250U946",
+    "origin": "AJU",
+    "destiny": "VCP",
+    "departureDate": "2021-02-17",
+    "departure": "11:00",
+    "arrival": "14:40",
+    "value": 422.58
+  },
+  {
+    "trip": "N266P900",
+    "origin": "VCP",
+    "destiny": "FLN",
+    "departureDate": "2021-02-17",
+    "departure": "07:40",
+    "arrival": "16:20",
+    "value": 1192.39
+  },
+  {
+    "trip": "U276P928",
+    "origin": "VCP",
+    "destiny": "PLU",
+    "departureDate": "2021-02-17",
+    "departure": "08:40",
+    "arrival": "12:20",
+    "value": 235.28
+  },
+  {
+    "trip": "X254P990",
+    "origin": "VCP",
+    "destiny": "VIX",
+    "departureDate": "2021-02-17",
+    "departure": "11:20",
+    "arrival": "21:00",
+    "value": 1145.1
+  },
+  {
+    "trip": "H282W903",
+    "origin": "PMW",
+    "destiny": "CGH",
+    "departureDate": "2021-02-17",
+    "departure": "09:40",
+    "arrival": "19:40",
+    "value": 1199.58
+  },
+  {
+    "trip": "P275W920",
+    "origin": "PMW",
+    "destiny": "VCP",
+    "departureDate": "2021-02-17",
+    "departure": "07:00",
+    "arrival": "15:40",
+    "value": 752.56
+  },
+  {
+    "trip": "L215W937",
+    "origin": "PMW",
+    "destiny": "BEL",
+    "departureDate": "2021-02-17",
+    "departure": "10:20",
+    "arrival": "19:20",
+    "value": 950.25
+  },
+  {
+    "trip": "Z247U904",
+    "origin": "PLU",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-17",
+    "departure": "11:40",
+    "arrival": "20:20",
+    "value": 1095.25
+  },
+  {
+    "trip": "W300U924",
+    "origin": "PLU",
+    "destiny": "PMW",
+    "departureDate": "2021-02-17",
+    "departure": "06:40",
+    "arrival": "16:40",
+    "value": 1196.67
+  },
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-18",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  },
+  {
+    "trip": "U264B986",
+    "origin": "BSB",
+    "destiny": "AJU",
+    "departureDate": "2021-02-18",
+    "departure": "08:00",
+    "arrival": "15:40",
+    "value": 745.58
+  },
+  {
+    "trip": "N207B980",
+    "origin": "BSB",
+    "destiny": "FLN",
+    "departureDate": "2021-02-18",
+    "departure": "09:00",
+    "arrival": "19:20",
+    "value": 1347.21
+  },
+  {
+    "trip": "X282B992",
+    "origin": "BSB",
+    "destiny": "VIX",
+    "departureDate": "2021-02-18",
+    "departure": "07:20",
+    "arrival": "20:20",
+    "value": 1009.67
+  },
+  {
+    "trip": "H219X969",
+    "origin": "VIX",
+    "destiny": "CGH",
+    "departureDate": "2021-02-18",
+    "departure": "12:00",
+    "arrival": "13:00",
+    "value": 106.25
+  },
+  {
+    "trip": "Z222X942",
+    "origin": "VIX",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-18",
+    "departure": "06:20",
+    "arrival": "16:40",
+    "value": 1002.76
+  },
+  {
+    "trip": "L299X980",
+    "origin": "VIX",
+    "destiny": "BEL",
+    "departureDate": "2021-02-18",
+    "departure": "06:00",
+    "arrival": "22:40",
+    "value": 1067.36
+  },
+  {
+    "trip": "W200Z988",
+    "origin": "MCZ",
+    "destiny": "PMW",
+    "departureDate": "2021-02-18",
+    "departure": "11:00",
+    "arrival": "13:20",
+    "value": 222.74
+  },
+  {
+    "trip": "U270Z936",
+    "origin": "MCZ",
+    "destiny": "PLU",
+    "departureDate": "2021-02-18",
+    "departure": "07:40",
+    "arrival": "12:40",
+    "value": 384.38
+  },
+  {
+    "trip": "N201Z960",
+    "origin": "MCZ",
+    "destiny": "FLN",
+    "departureDate": "2021-02-18",
+    "departure": "11:20",
+    "arrival": "23:00",
+    "value": 860.42
+  },
+  {
+    "trip": "U245L931",
+    "origin": "BEL",
+    "destiny": "PLU",
+    "departureDate": "2021-02-18",
+    "departure": "10:00",
+    "arrival": "18:00",
+    "value": 1097
+  },
+  {
+    "trip": "B211L949",
+    "origin": "BEL",
+    "destiny": "BSB",
+    "departureDate": "2021-02-18",
+    "departure": "09:40",
+    "arrival": "21:40",
+    "value": 1141.5
+  },
+  {
+    "trip": "W299L976",
+    "origin": "BEL",
+    "destiny": "PMW",
+    "departureDate": "2021-02-18",
+    "departure": "07:00",
+    "arrival": "13:40",
+    "value": 851.39
+  },
+  {
+    "trip": "P212N917",
+    "origin": "FLN",
+    "destiny": "VCP",
+    "departureDate": "2021-02-18",
+    "departure": "10:20",
+    "arrival": "17:40",
+    "value": 572.92
+  },
+  {
+    "trip": "U261N908",
+    "origin": "FLN",
+    "destiny": "AJU",
+    "departureDate": "2021-02-18",
+    "departure": "08:20",
+    "arrival": "19:00",
+    "value": 1144.89
+  },
+  {
+    "trip": "H295N957",
+    "origin": "FLN",
+    "destiny": "CGH",
+    "departureDate": "2021-02-18",
+    "departure": "06:40",
+    "arrival": "15:00",
+    "value": 1130.9
+  },
+  {
+    "trip": "U207H952",
+    "origin": "CGH",
+    "destiny": "AJU",
+    "departureDate": "2021-02-18",
+    "departure": "09:00",
+    "arrival": "18:40",
+    "value": 645.25
+  },
+  {
+    "trip": "Z293H923",
+    "origin": "CGH",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-18",
+    "departure": "07:20",
+    "arrival": "14:00",
+    "value": 523.06
+  },
+  {
+    "trip": "L248U962",
+    "origin": "AJU",
+    "destiny": "BEL",
+    "departureDate": "2021-02-18",
+    "departure": "06:20",
+    "arrival": "18:20",
+    "value": 1107.5
+  },
+  {
+    "trip": "H294U916",
+    "origin": "AJU",
+    "destiny": "CGH",
+    "departureDate": "2021-02-18",
+    "departure": "09:20",
+    "arrival": "15:20",
+    "value": 599.75
+  },
+  {
+    "trip": "B232U928",
+    "origin": "AJU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-18",
+    "departure": "06:00",
+    "arrival": "22:20",
+    "value": 1186.21
+  },
+  {
+    "trip": "P250U946",
+    "origin": "AJU",
+    "destiny": "VCP",
+    "departureDate": "2021-02-18",
+    "departure": "11:00",
+    "arrival": "14:40",
+    "value": 422.58
+  },
+  {
+    "trip": "N266P900",
+    "origin": "VCP",
+    "destiny": "FLN",
+    "departureDate": "2021-02-18",
+    "departure": "07:40",
+    "arrival": "16:20",
+    "value": 1192.39
+  },
+  {
+    "trip": "U276P928",
+    "origin": "VCP",
+    "destiny": "PLU",
+    "departureDate": "2021-02-18",
+    "departure": "08:40",
+    "arrival": "12:20",
+    "value": 235.28
+  },
+  {
+    "trip": "U268P950",
+    "origin": "VCP",
+    "destiny": "AJU",
+    "departureDate": "2021-02-18",
+    "departure": "10:40",
+    "arrival": "14:20",
+    "value": 324.19
+  },
+  {
+    "trip": "N256W953",
+    "origin": "PMW",
+    "destiny": "FLN",
+    "departureDate": "2021-02-18",
+    "departure": "10:00",
+    "arrival": "21:20",
+    "value": 997.81
+  },
+  {
+    "trip": "P275W920",
+    "origin": "PMW",
+    "destiny": "VCP",
+    "departureDate": "2021-02-18",
+    "departure": "07:00",
+    "arrival": "15:40",
+    "value": 752.56
+  },
+  {
+    "trip": "L215W937",
+    "origin": "PMW",
+    "destiny": "BEL",
+    "departureDate": "2021-02-18",
+    "departure": "10:20",
+    "arrival": "19:20",
+    "value": 950.25
+  },
+  {
+    "trip": "Z247U904",
+    "origin": "PLU",
+    "destiny": "MCZ",
+    "departureDate": "2021-02-18",
+    "departure": "11:40",
+    "arrival": "20:20",
+    "value": 1095.25
+  },
+  {
+    "trip": "B233U977",
+    "origin": "PLU",
+    "destiny": "BSB",
+    "departureDate": "2021-02-18",
+    "departure": "08:20",
+    "arrival": "13:00",
+    "value": 599.47
+  },
+  {
+    "trip": "U240U930",
+    "origin": "PLU",
+    "destiny": "AJU",
+    "departureDate": "2021-02-18",
+    "departure": "08:00",
+    "arrival": "16:00",
+    "value": 776.67
+  }
+]
