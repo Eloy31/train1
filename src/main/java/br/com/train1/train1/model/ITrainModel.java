@@ -3,6 +3,7 @@ package br.com.train1.train1.model;
 import javax.validation.constraints.Size;
 import java.time.LocalDate;
 import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 
 public class ITrainModel {
     @Size(max=6)
@@ -26,6 +27,7 @@ public class ITrainModel {
         this.tripNumber = tripNumber;
         this.originStation = originStation;
         this.destinalStation = destinalStation;
+        date = date.replaceAll("/", "-");
         this.date = LocalDate.parse(date);
         this.departureTime = LocalTime.parse(departureTime);
         this.arrivalTime = LocalTime.parse(arrivalTime);
@@ -63,6 +65,7 @@ public class ITrainModel {
     }
 
     public void setDate(String date) {
+        date = date.replaceAll("/", "-");
         this.date = LocalDate.parse(date);
     }
 
