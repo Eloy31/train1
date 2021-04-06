@@ -1,5 +1,6 @@
 package br.com.train1.train1;
 
+import br.com.train1.train1.model.ITrainModel;
 import br.com.train1.train1.model.TrainStationsModel;
 import br.com.train1.train1.model.UberOnRailsModel;
 import br.com.train1.train1.service.PopulationFileService;
@@ -14,8 +15,9 @@ public class Train1Application {
 		// SpringApplication.run(Train1Application.class, args);
 		PopulationFileService populationFileService = new PopulationFileService();
 
-		List<TrainStationsModel> trainStationsModelList = populationFileService.createTrainStationsList();
+		List<TrainStationsModel> trainStationsModels = populationFileService.createTrainStationsList();
 		List<UberOnRailsModel> uberOnRailsModels = populationFileService.createUberOnRailsList();
+		List<ITrainModel> iTrainModels = populationFileService.createITrainList();
 		int a = 0;
 	}
 }

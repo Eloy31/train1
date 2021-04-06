@@ -32,6 +32,8 @@ public class ITrainModel {
         this.price = price;
     }
 
+    public ITrainModel() {}
+
     public String getTripNumber() {
         return tripNumber;
     }
