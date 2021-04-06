@@ -1,17 +1,12 @@
 package br.com.train1.train1.model;
 
 import br.com.train1.train1.config.*;
-import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.validation.constraints.Size;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
 
 public class UberOnRailsModel {
     @Size(max = 8)
@@ -96,5 +91,18 @@ public class UberOnRailsModel {
 
     public void setValue(Double value) {
         this.value = value;
+    }
+
+    @Override
+    public String toString() {
+        return "UberOnRailsModel{" +
+                "trip='" + trip + '\'' +
+                ", origin='" + origin + '\'' +
+                ", destiny='" + destiny + '\'' +
+                ", departureDate=" + departureDate +
+                ", departure=" + departure +
+                ", arrival=" + arrival +
+                ", value=" + value +
+                '}';
     }
 }

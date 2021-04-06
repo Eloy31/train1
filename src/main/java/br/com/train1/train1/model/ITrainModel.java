@@ -2,8 +2,6 @@ package br.com.train1.train1.model;
 
 import br.com.train1.train1.config.LocalDateDeserializer;
 import br.com.train1.train1.config.LocalDateSerializer;
-import br.com.train1.train1.config.LocalDateTimeDeserializer;
-import br.com.train1.train1.config.LocalDateTimeSerializer;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
@@ -25,23 +23,19 @@ public class ITrainModel {
     @JsonSerialize(using = LocalDateSerializer.class)
     private LocalDate date;
 
-    @JsonSerialize(using = LocalDateTimeSerializer.class)
-    @JsonDeserialize(using = LocalDateTimeDeserializer.class)
     private LocalTime departureTime;
 
-    @JsonSerialize(using = LocalDateTimeSerializer.class)
-    @JsonDeserialize(using = LocalDateTimeDeserializer.class)
     private LocalTime arrivalTime;
 
     private Double price;
 
-    public ITrainModel(@Size(max = 6) String tripNumber, @Size(max = 3) String originStation, @Size(max = 3) String destinalStation, LocalDate date, LocalTime departureTime, LocalTime arrivalTime, Double price) {
+    public ITrainModel(@Size(max = 6) String tripNumber, @Size(max = 3) String originStation, @Size(max = 3) String destinalStation, LocalDate date, String departureTime, String arrivalTime, Double price) {
         this.tripNumber = tripNumber;
         this.originStation = originStation;
         this.destinalStation = destinalStation;
         this.date = date;
-        this.departureTime = departureTime;
-        this.arrivalTime = arrivalTime;
+        this.departureTime = LocalTime.parse(departureTime);
+        this.arrivalTime = LocalTime.parse(arrivalTime);
         this.price = price;
     }
 
@@ -81,16 +75,16 @@ public class ITrainModel {
         return departureTime;
     }
 
-    public void setDepartureTime(LocalTime departureTime) {
-        this.departureTime = departureTime;
+    public void setDepartureTime(String departureTime) {
+        this.departureTime = LocalTime.parse(departureTime);
     }
 
     public LocalTime getArrivalTime() {
         return arrivalTime;
     }
 
-    public void setArrivalTime(LocalTime arrivalTime) {
-        this.arrivalTime = arrivalTime;
+    public void setArrivalTime(String arrivalTime) {
+        this.arrivalTime = LocalTime.parse(arrivalTime);
     }
 
     public Double getPrice() {
@@ -99,5 +93,18 @@ public class ITrainModel {
 
     public void setPrice(Double price) {
         this.price = price;
+    }
+
+    @Override
+    public String toString() {
+        return "ITrainModel{" +
+                "tripNumber='" + tripNumber + '\'' +
+                ", originStation='" + originStation + '\'' +
+                ", destinalStation='" + destinalStation + '\'' +
+                ", date=" + date +
+                ", departureTime=" + departureTime +
+                ", arrivalTime=" + arrivalTime +
+                ", price=" + price +
+                '}';
     }
 }
